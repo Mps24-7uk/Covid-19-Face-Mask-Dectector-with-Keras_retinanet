@@ -8,8 +8,8 @@ Face Mask detector for covid-19( wuhan virus, chinese virus) with Keras_retinane
 
 # Testing
 - Download the weights from https://drive.google.com/file/d/1W3BxofAORs2fIkKTDv6nTpdvUB9IFgEr/view?usp=sharing and keep it inside the inference folder
-- Execute ```python test.py --image t1.jpg``` inside test folder
+- Go to test folder and Execute ```python test.py --image t1.jpg``` inside test folder
 
 # Result
 
-![alt text](./test/result/out.jpg)
+![alt text](./test/result/mask4.jpg)
