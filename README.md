@@ -1,4 +1,4 @@
-# Covid-19-Face-Mask-Dectector-with-Keras_retinanet
+# Covid-19-Face-Mask-Detector-with-Keras_retinanet
 Face Mask detector for covid-19( wuhan virus, chinese virus) with Keras_retinanet
 
 # Installation
